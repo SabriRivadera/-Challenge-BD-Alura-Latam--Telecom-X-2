@@ -52,8 +52,8 @@ xgboost
 ## 📂 Acceso al proyecto
 
 - [Notebook principal](./Challenge-BD-Alura-Latam--Telecom-x-2.ipynb)
-- [Dataset CSV](./datos_telecomX.csv)
-- [Dataset JSON](./TelecomX_Data.json)
+- [datos_telecomX CSV](./datos_telecomX.csv)
+- [datos_telecomX JSON]([./TelecomX_Data.json](https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/main/TelecomX_Data.json))
 
 ## 📊 Conclusión
 
