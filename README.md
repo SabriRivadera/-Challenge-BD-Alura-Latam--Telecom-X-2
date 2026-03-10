@@ -45,7 +45,6 @@ xgboost
 ```tap
 ├── Challenge-BD-Alura-Latam--Telecom-x-2.ipynb       # Notebook principal del análisis
 ├── datos_telecomX.csv     # Dataset procesado en formato CSV
-├── TelecomX_Data.json     # Dataset original en formato JSON
 └── README.md              # Descripción del proyecto
 ```
 
